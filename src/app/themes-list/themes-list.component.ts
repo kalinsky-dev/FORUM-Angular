@@ -12,7 +12,7 @@ export class ThemesListComponent implements OnInit {
 
   ngOnInit(): void {
     this.apiService.getThemes().subscribe(themes => {
-      console.log(themes);
+      console.log({themes});
     });
   }
 
