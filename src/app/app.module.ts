@@ -9,6 +9,7 @@ import { ThemesListComponent } from './themes-list/themes-list.component';
 import { PostsListComponent } from './posts-list/posts-list.component';
 import { HttpClientModule } from '@angular/common/http';
 import { LoaderComponent } from './shared/loader/loader.component';
+import { SharedModule } from './shared/shared.module';
 
 
 @NgModule({
@@ -17,13 +18,13 @@ import { LoaderComponent } from './shared/loader/loader.component';
     MainComponent,
     ThemesListComponent,
     PostsListComponent,
-    LoaderComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
+    HttpClientModule,
     CoreModule,
-    HttpClientModule
+    SharedModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
