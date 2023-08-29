@@ -17,8 +17,8 @@ export class PostsListComponent implements OnInit {
 
   ngOnInit(): void {
     this.apiService.getPosts(5).subscribe({
-      next: (themes) => {
-        this.postsList = themes;
+      next: (posts) => {
+        this.postsList = posts;
 
         // if (this.postsList.length === 0) {
         //   this.thereAreNoPosts = true;
