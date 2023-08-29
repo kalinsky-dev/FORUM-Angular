@@ -1,15 +1,4 @@
-export interface UserId {
-  "_id": string,
-  "themes": string[];
-  "posts": string[];
-  "tel": string;
-  "email": string;
-  "username": string;
-  "password": string;
-  "created_at": string;
-  "updatedAt": string;
-  "__v": number;
-}
+import { UserId } from "./user-id";
 
 export interface Theme {
   "_id": string;
