@@ -12,10 +12,7 @@ export class ThemesListComponent implements OnInit {
   themesList: Theme[] = [];
   isLoading: boolean = true;
 
-  constructor(
-    private apiService: ApiService,
-    private userService: UserService
-  ) {}
+  constructor(private apiService: ApiService, private userService: UserService) { }
 
   get isLogged(): boolean {
     return this.userService.isLogged;
