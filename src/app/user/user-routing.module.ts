@@ -9,14 +9,17 @@ const routes: Routes = [
   {
     path: 'login',
     component: LoginComponent,
+    // canActivate: [AuthActivate],
   },
   {
     path: 'register',
     component: RegisterComponent,
+    // canActivate: [AuthActivate],
   },
   {
     path: 'profile',
     component: ProfileComponent,
+    // canActivate: [AuthActivate],
   },
 ];
 
