@@ -1,14 +1,16 @@
-import { UserId } from "./user-id";
+import { Post } from './post';
+import { UserId } from './user-id';
 
 export interface Theme {
-  "_id": string;
-  "subscribers": string[];
-  "posts": string[];
-  "themeName": string;
-  "userId": UserId;
-  "created_at": string;
-  "updatedAt": string;
-  "__v": number;
+  subscribers: string[];
+  posts: any; // string[] | Post[];
+  _id: string;
+  themeName: string;
+  userId: UserId;
+  created_at: string;
+  updatedAt: string;
+  __v: number;
 }
+
 
 
