@@ -14,10 +14,9 @@ The application is a forum, where each registered user can create a theme or pos
 - MongoDB
 - HTML & CSS
 
+### Before you start with creating a new project in Angular you need to install MongoDB.
 
-# Before you start with creating a new project in Angular you need to install MongoDB.
-
-# After the successful installation the database will be empty, so you can load the provided from me initial data in it as follows:
+### After the successful installation the database will be empty, so you can load the provided from me initial data in it as follows:
 
 ![providing the data in the DB](https://github.com/kalinsky-dev/FORUM-WORKSHOP-Angular/blob/main/screenshots/1.png)
 
