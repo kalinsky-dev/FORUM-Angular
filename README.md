@@ -1,10 +1,5 @@
 # FORUM WORKSHOP 
 
-This is an application like Kanban, where you and your team can store and manage your Tasks.
-The system include all the Tasks which has to be resolved.
-
-### Features
-
 The application is a forum, where each registered user can create a theme or post a comment. 
 
 ### Used technologies
