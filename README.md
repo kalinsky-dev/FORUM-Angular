@@ -18,7 +18,7 @@ The application is a forum, where each registered user can create a theme or pos
 
 ### After the successful installation the database will be empty, so you can load the provided from me initial data in it as follows:
 
-![providing the data in the DB](https://github.com/kalinsky-dev/FORUM-WORKSHOP-Angular/blob/main/screenshots/1.png,https://github.com/kalinsky-dev/FORUM-WORKSHOP-Angular/blob/main/screenshots/2.png)
+![providing the data in the DB](https://github.com/kalinsky-dev/FORUM-WORKSHOP-Angular/blob/main/screenshots/1.png;https://github.com/kalinsky-dev/FORUM-WORKSHOP-Angular/blob/main/screenshots/2.png)
 
 # Getting Started with Angular
 
