@@ -21,10 +21,10 @@ export class HeaderComponent {
   logout(): void {
     this.userService.logout().subscribe({
       next: () => {
-        this.router.navigate(['/auth/login']);
+        this.router.navigate(['/login']);
       },
       error: () => {
-        this.router.navigate(['/auth/login']);
+        this.router.navigate(['/login']);
       },
     });
   }
