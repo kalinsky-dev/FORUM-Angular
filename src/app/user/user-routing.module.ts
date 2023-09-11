@@ -8,17 +8,17 @@ import { AuthActivate } from '../core/guards/auth.activate';
 
 const routes: Routes = [
   {
-    path: 'auth/login',
+    path: 'login',
     component: LoginComponent,
     // canActivate: [AuthActivate],
   },
   {
-    path: 'auth/register',
+    path: 'register',
     component: RegisterComponent,
     // canActivate: [AuthActivate],
   },
   {
-    path: 'auth/profile',
+    path: 'profile',
     component: ProfileComponent,
     // canActivate: [AuthActivate],
   },
