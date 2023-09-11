@@ -11,6 +11,3 @@ export interface Theme {
   updatedAt: string;
   __v: number;
 }
-
-
-
