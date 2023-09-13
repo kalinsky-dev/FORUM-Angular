@@ -1,4 +1,4 @@
-# FORUM WORKSHOP 
+# FORUM
 
 The application is a forum, where each registered user can create a theme or post a comment. 
 
