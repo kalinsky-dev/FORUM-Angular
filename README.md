@@ -18,6 +18,7 @@ The application is a forum, where each registered user can create a theme or pos
 ![providing the data in the DB](https://github.com/kalinsky-dev/FORUM-WORKSHOP-Angular/blob/main/screenshots/3.png)
 ![providing the data in the DB](https://github.com/kalinsky-dev/FORUM-WORKSHOP-Angular/blob/main/screenshots/4.png)
 ![providing the data in the DB](https://github.com/kalinsky-dev/FORUM-WORKSHOP-Angular/blob/main/screenshots/5.png)
+![REST-api Endpoints](https://github.com/kalinsky-dev/FORUM-Angular/blob/main/screenshots/6.png)
 
 # Getting Started with Angular
 
