@@ -7,7 +7,7 @@ The application is a forum, where each registered user can create a theme or pos
 - Front-end built with Angular
 - REST Api 
 - MongoDB
-- rxjs
+- RxJS
 - HTML & CSS
 
 ### Before you start with creating a new project in Angular you need to install MongoDB.
