@@ -2,7 +2,7 @@
 
 The application is a forum, where each registered user can create a theme or post a comment. 
 
-### Used technologies
+### Used Technologies & Dependencies
 
 - Front-end built with Angular
 - REST Api 
