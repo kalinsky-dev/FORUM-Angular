@@ -7,6 +7,7 @@ The application is a forum, where each registered user can create a theme or pos
 - Front-end built with Angular
 - REST Api 
 - MongoDB
+- Typescript
 - RxJS
 - HTML & CSS
 
